@@ -1,0 +1,30 @@
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\bin\Debug\net6.0\appsettings.json
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\bin\Debug\net6.0\Thực hành 1.staticwebassets.runtime.json
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\bin\Debug\net6.0\Thực hành 1.exe
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\bin\Debug\net6.0\Thực hành 1.deps.json
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\bin\Debug\net6.0\Thực hành 1.runtimeconfig.json
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\bin\Debug\net6.0\Thực hành 1.dll
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\bin\Debug\net6.0\Thực hành 1.pdb
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\Thực hành 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\Thực hành 1.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\Thực hành 1.AssemblyInfo.cs
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\Thực hành 1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\Thực hành 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\Thực hành 1.RazorAssemblyInfo.cache
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\Thực hành 1.RazorAssemblyInfo.cs
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\staticwebassets\msbuild.Thực hành 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\staticwebassets\msbuild.build.Thực hành 1.props
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Thực hành 1.props
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Thực hành 1.props
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\scopedcss\bundle\Thực hành 1.styles.css
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\scopedcss\projectbundle\Thực hành 1.bundle.scp.css
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\Thực hành 1.dll
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\refint\Thực hành 1.dll
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\Thực hành 1.pdb
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\Thực hành 1.genruntimeconfig.cache
+C:\Users\admin\Documents\Kỳ 5\Lập trình web\Code\Thực hành 1\obj\Debug\net6.0\ref\Thực hành 1.dll
